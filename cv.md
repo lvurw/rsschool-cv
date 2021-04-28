@@ -1,30 +1,28 @@
 ### Laura Bolat
  
-Location: Almaty, Kazakhstan 
+Location: *Almaty, Kazakhstan* 
 
-E-mail: iskhakovalaura@gmail.com
+E-mail: *iskhakovalaura@gmail.com*
 
-Discord nickname: lvurw 
+Discord nickname: *lvurw*
 
-Objective:
+##### Objective:
 
 A girl with great potential striving to become a highly skilled iOS-developer. 
 
-Education: 
+##### Education: 
 
 iOS App Development, STEP IT Academy, 2020 - until now
 
 Standardization, Certification and Metrology (by branches of industry), Bachelor’s Degree
 Al-Farabi Kazakh National University, 2019
 
-Skills: 
+##### Skills: 
+- Swift Basics
+- UIKit Basics
 
-Swift Basics 
-UIKit Basics
-
-Languages: 
-
-English - pre-intermediate, 
-German - elementary
-Russian - native
+##### Languages: 
+- English - pre-intermediate
+- German - elementary
+- Russian - native
 
